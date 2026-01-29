@@ -54,8 +54,8 @@ Target Role: Software Development Engineer (SDE)
 
 📫 Contact
 
-GitHub: https://github.com/raghvf
+[Github](https://github.com/raghvf)
 
-LinkedIn: https://www.linkedin.com/in/vidhyarthi-majumder/
+[LinkedIn](https://www.linkedin.com/in/vidhyarthi-majumder/)
 
 Email: bidhyarthimajumder45@gmail.com
