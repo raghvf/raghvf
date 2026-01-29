@@ -46,7 +46,7 @@ Microsoft Edge TTS, delivering sub-1.2s average voice response time
 • Developed a PyQt5-based GUI and automation framework supporting 15+ system actions, improving task 
 execution efficiency by ~30% and enabling scalable feature expansion 
 
-[](https://github.com/raghvf/JARVIS.git)
+[link](https://github.com/raghvf/JARVIS.git)
 
 🎯 Career Goals
 
